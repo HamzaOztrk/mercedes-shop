@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mercedes-shop/static/css/main.c2cab247.css",
+    "main.js": "/mercedes-shop/static/js/main.b86c6aaf.js",
+    "static/media/mercedes2.jpg": "/mercedes-shop/static/media/mercedes2.6790fc71e31c2ad437f4.jpg",
+    "static/media/mercedes5.jpg": "/mercedes-shop/static/media/mercedes5.ccf40cf6c028bb4196d4.jpg",
+    "static/media/mercedes3.jpg": "/mercedes-shop/static/media/mercedes3.e97883f8883d8c456828.jpg",
+    "static/media/home.avif": "/mercedes-shop/static/media/home.92ec6c245296238d3be7.avif",
+    "static/media/mercedes1.jpg": "/mercedes-shop/static/media/mercedes1.3454ff19caa9805d23f2.jpg",
+    "static/media/mercedes6.webp": "/mercedes-shop/static/media/mercedes6.ad2554d139d81ffaef69.webp",
+    "static/media/mercedes4.webp": "/mercedes-shop/static/media/mercedes4.9cf5d7eac3de3c8dc63e.webp",
+    "index.html": "/mercedes-shop/index.html",
+    "main.c2cab247.css.map": "/mercedes-shop/static/css/main.c2cab247.css.map",
+    "main.b86c6aaf.js.map": "/mercedes-shop/static/js/main.b86c6aaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.b86c6aaf.js"
+  ]
+}
